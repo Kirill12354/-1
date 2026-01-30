@@ -1,0 +1,39 @@
+header h1{
+    text-align: center;
+}
+img.circle{
+    width: 250px;
+    height: 250px;
+}
+.posters{
+   display: flex;
+   gap: 20px;
+}
+.black{
+    width: 170px;
+    height: 230px;
+}
+.posterr{
+   display: flex;
+   gap: 20px;
+}
+
+.zoo{
+    width: 170px;
+    height: 230px;
+}
+.Svatu{
+   display: flex;
+   gap: 20px;
+}
+.sv{
+    width: 170px;
+    height: 230px;
+}
+main{
+    background-color: rgb(220, 20, 167);
+}
+.bob{
+    width: 170px;
+    height: 230px;
+}
